@@ -10,5 +10,7 @@ while True:
         break
 gst = input("Que gasto es")
 
+vlr = input("valor del gasto")
+
 
 
