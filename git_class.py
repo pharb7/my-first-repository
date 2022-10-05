@@ -1,16 +1,17 @@
-def area(a,b):
-    return a*b
+#%%
+lisft = ["a","b","c"]
 
-c=1
-while True:
-    c += 1
-    print(c)    
-    if c >6:
-    
-        break
-gst = input("Que gasto es")
+def lis(ws):
+    c=0
+    print(ws)
 
-vlr = input("valor del gasto")
- valor 
+    while True:
+        if c >= len(ws):
+            break
+        print(ws[c])
+        c +=1
+
+lis(lisft)
+
 
 
